@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetSoreModels", "PetSoreModels\PetSoreModels.csproj", "{673D1192-A589-46D4-BF93-E41CC8FEED72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStore.Data", "PetStore.Data\PetStore.Data.csproj", "{78B0D1C5-E7D0-4CB1-A896-15EDC54B5FC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetSore.Common", "PetSore.Common\PetSore.Common.csproj", "{FA0A6C3E-BD30-4996-A241-790F403B3497}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStore.Application", "PetStore.Application\PetStore.Application.csproj", "{C3A01721-8821-4A8D-8502-F07EE417F4FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStore.Services", "PetStore.Services\PetStore.Services.csproj", "{6BBB6F8C-E614-4D57-8B5A-13E2115ABFBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStore.ServiceModels", "PetStore.ServiceModels\PetStore.ServiceModels.csproj", "{7C2AC100-E78F-4370-B01E-9D4EA3123023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore.Mapping", "PetStore.Mapping\PetStore.Mapping.csproj", "{69263E42-DB68-4AB7-AC98-2DC14F12C679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{673D1192-A589-46D4-BF93-E41CC8FEED72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673D1192-A589-46D4-BF93-E41CC8FEED72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673D1192-A589-46D4-BF93-E41CC8FEED72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673D1192-A589-46D4-BF93-E41CC8FEED72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B0D1C5-E7D0-4CB1-A896-15EDC54B5FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B0D1C5-E7D0-4CB1-A896-15EDC54B5FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B0D1C5-E7D0-4CB1-A896-15EDC54B5FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B0D1C5-E7D0-4CB1-A896-15EDC54B5FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0A6C3E-BD30-4996-A241-790F403B3497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0A6C3E-BD30-4996-A241-790F403B3497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0A6C3E-BD30-4996-A241-790F403B3497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0A6C3E-BD30-4996-A241-790F403B3497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A01721-8821-4A8D-8502-F07EE417F4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A01721-8821-4A8D-8502-F07EE417F4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A01721-8821-4A8D-8502-F07EE417F4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A01721-8821-4A8D-8502-F07EE417F4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBB6F8C-E614-4D57-8B5A-13E2115ABFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBB6F8C-E614-4D57-8B5A-13E2115ABFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBB6F8C-E614-4D57-8B5A-13E2115ABFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBB6F8C-E614-4D57-8B5A-13E2115ABFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2AC100-E78F-4370-B01E-9D4EA3123023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2AC100-E78F-4370-B01E-9D4EA3123023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2AC100-E78F-4370-B01E-9D4EA3123023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2AC100-E78F-4370-B01E-9D4EA3123023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69263E42-DB68-4AB7-AC98-2DC14F12C679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69263E42-DB68-4AB7-AC98-2DC14F12C679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69263E42-DB68-4AB7-AC98-2DC14F12C679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69263E42-DB68-4AB7-AC98-2DC14F12C679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8988F3B-16E2-488E-95FB-268F0EC58615}
+	EndGlobalSection
+EndGlobal

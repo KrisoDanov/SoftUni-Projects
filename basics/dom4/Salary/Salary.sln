@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salary\Salary.csproj", "{778C409E-2156-4F1F-81DB-08CED3D9FC3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delenie", "..\delenie\delenie.csproj", "{6C7D571F-DA1C-4C21-A396-CF977048F9DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{778C409E-2156-4F1F-81DB-08CED3D9FC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778C409E-2156-4F1F-81DB-08CED3D9FC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778C409E-2156-4F1F-81DB-08CED3D9FC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778C409E-2156-4F1F-81DB-08CED3D9FC3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C7D571F-DA1C-4C21-A396-CF977048F9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7D571F-DA1C-4C21-A396-CF977048F9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7D571F-DA1C-4C21-A396-CF977048F9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7D571F-DA1C-4C21-A396-CF977048F9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {039A682E-57E3-4009-90EC-0CDB2F8FBD89}
+	EndGlobalSection
+EndGlobal
